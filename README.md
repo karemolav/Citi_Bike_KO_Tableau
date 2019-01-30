@@ -102,3 +102,5 @@ Your final product will be assessed on the following metrics:
 ## Copyright
 
 Data Boot Camp (C) 2018. All Rights Reserved.
+
+Link: https://public.tableau.com/profile/karem.olavarri#!/vizhome/Bike_Homework_KO/2018Growth?publish=yes 
